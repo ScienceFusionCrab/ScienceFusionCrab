@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @ScienceFusionCrab
-- 👀 I’m interested in cheese 
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ScienceFusionCrab#2107 on discord
+
